@@ -61,16 +61,48 @@ Proyecto escolar con énfasis en **UX/UI**.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y herramientas
 
+### 💻 Lenguajes de programación
 - Python
+- Java
+- JavaScript
+- TypeScript
 - PHP
+- C
+
+### 🌐 Desarrollo web
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- JSP / JSTL
+
+### 🗄️ Bases de datos
 - MySQL
+- PostgreSQL
+
+### ⚙️ Backend & servidores
+- Node.js
+- Apache
+- Tomcat
+
+### 📱 Desarrollo móvil
+- Android Studio (Java)
+- React Native
+- Expo
+
+### 🧩 Frameworks y librerías
+- React Native
+- Node.js
+
+### 🤖 Inteligencia artificial
+- Integración de modelos de lenguaje
 - Ollama
-- Integración de IA
-- Diseño de bases de datos
-- UX/UI
-- Git & GitHub
+
+### 🧰 Herramientas
+- Git
+- GitHub
 
 ---
 
